@@ -2,6 +2,11 @@
 #I am a passionate web developer with a background in IT. Excited to grow my skills in web development!
 🌱 I’m currently learning Web Development BootCamp.
 
+## My Hobbys
+- Cooking
+- Sport
+
+
 <!--
 **Sarahabidar/Sarahabidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
