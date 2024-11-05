@@ -2,7 +2,7 @@
 I'm a new web developer who is passionate about learning to code. I enjoy building user-friendly and responsive websites and applications. 
 
 ## More about me
-- I’m currently learning Web Development BootCamp.
+- I’m junior Web Development.
 - I love sports and being outdoors in nature
 
 
